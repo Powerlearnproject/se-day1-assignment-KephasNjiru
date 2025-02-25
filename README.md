@@ -186,4 +186,4 @@ Why the improved prompt is more effective:
 
 Specificity: The prompt narrows down the topic to artificial intelligence in healthcare rather than technology in general.
 Clear Focus: It explicitly states which aspects to discuss—medical diagnostics and patient care—guiding the AI’s response.
-Concise and Direct: The request is structured clearly
+Concise and Direct: The request is structured clearly. 
